@@ -1,0 +1,13 @@
+{
+  "name": "coderhouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch ProductManager.js/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
